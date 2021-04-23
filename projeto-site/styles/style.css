@@ -1,9 +1,11 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16 px;
-    font-weight: 600;
 }
 
+a {
+    font-weight: 600;
+}
 body {
     background-color: rgb(250, 249, 216);
     padding-bottom: 0;
