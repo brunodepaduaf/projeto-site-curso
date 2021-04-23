@@ -5,6 +5,8 @@
 
 body {
     background-color: rgb(250, 249, 216);
+    padding-bottom: 0;
+    transform: translate(0, 60%);
 }
 
 main {
@@ -12,5 +14,11 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 0px 0px 5px #ee0b0b79;
+    box-shadow: 1px 1px 5px 3px #00000079;
+    border-radius: 10px;
+}
+fieldset{
+    border-radius: 10px;
+    margin-top: 0.6em;
+    background-color: rgb(232, 231, 229);
 }
