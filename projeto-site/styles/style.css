@@ -6,19 +6,24 @@
 body {
     background-color: rgb(250, 249, 216);
     padding-bottom: 0;
-    transform: translate(0, 60%);
+    transform: translate(0, 50%);
 }
 
 main {
     background-color: white;
-    width: 500px;
-    margin: auto;
+    margin: 50em 20em 30 em;
+    margin: 5% 15% 5% 15%;
     padding: 10px;
     box-shadow: 1px 1px 5px 3px #00000079;
     border-radius: 10px;
 }
-fieldset{
+fieldset {
     border-radius: 10px;
     margin-top: 0.6em;
     background-color: rgb(232, 231, 229);
+}
+.bloco {
+    padding: 0px 15px 0px 15px;
+    text-align: justify;
+    
 }
