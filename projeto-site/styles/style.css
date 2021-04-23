@@ -6,12 +6,11 @@
 body {
     background-color: rgb(250, 249, 216);
     padding-bottom: 0;
-    transform: translate(0, 50%);
+    transform: translate(0, 7%);
 }
 
 main {
     background-color: white;
-    margin: 50em 20em 30 em;
     margin: 5% 15% 5% 15%;
     padding: 10px;
     box-shadow: 1px 1px 5px 3px #00000079;
@@ -26,4 +25,10 @@ fieldset {
     padding: 0px 15px 0px 15px;
     text-align: justify;
     
+}
+
+img.lado {
+    float: right;
+    margin-left: 1em;
+    transform: translateY(-5%);
 }
